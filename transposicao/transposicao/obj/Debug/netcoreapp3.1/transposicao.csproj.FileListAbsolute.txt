@@ -1,0 +1,13 @@
+C:\Users\Pedro\source\repos\transposicao\transposicao\bin\Debug\netcoreapp3.1\transposicao.exe
+C:\Users\Pedro\source\repos\transposicao\transposicao\bin\Debug\netcoreapp3.1\transposicao.deps.json
+C:\Users\Pedro\source\repos\transposicao\transposicao\bin\Debug\netcoreapp3.1\transposicao.runtimeconfig.json
+C:\Users\Pedro\source\repos\transposicao\transposicao\bin\Debug\netcoreapp3.1\transposicao.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\transposicao\transposicao\bin\Debug\netcoreapp3.1\transposicao.dll
+C:\Users\Pedro\source\repos\transposicao\transposicao\bin\Debug\netcoreapp3.1\transposicao.pdb
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.dll
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.pdb
+C:\Users\Pedro\source\repos\transposicao\transposicao\obj\Debug\netcoreapp3.1\transposicao.genruntimeconfig.cache
